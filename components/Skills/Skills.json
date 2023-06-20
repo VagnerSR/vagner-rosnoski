@@ -1,0 +1,117 @@
+[
+  {
+    "name": "HTML",
+    "text": "HTML was one of the first technologies I learned on my programming journey. It was a fundamental step that laid the foundation for my understanding of web development.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+    "rounded": ""
+  },
+  {
+    "name": "CSS",
+    "text": "Learning CSS was a fun and creative experience. It allowed me to bring life to web pages by adding colors, layouts, and beautiful styles. Exploring different CSS properties and seeing the visual transformations was and still is enjoyable.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    "rounded": ""
+  },
+  {
+    "name": "JavaScript",
+    "text": "JavaScript opened up a whole new world of interactivity and dynamic web development for me. It was both challenging and exciting to learn JavaScript as it enabled me to make web pages come alive with user interactions and dynamic content.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "rounded": ""
+  },
+  {
+    "name": "React",
+    "text": "React was a game-changer in my web development journey. Building reusable components, learning about the React ecosystem and community and exploring numerous libraries provided endless possibilities.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "rounded": "bg-light dark:bg-dark rounded-full"
+  },
+  {
+    "name": "Git",
+    "text": "Learning Git was difficult and took some time to get used to the terminal, grasp the concepts of version control, the benefits it offered in terms of collaboration, code management and project organization.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    "rounded": "bg-light dark:bg-dark rounded-full"
+  },
+  {
+    "name": "GitHub",
+    "text": "GitHub provided a platform to showcase my work and explore the vast collection of repositories, where I found a bunch of exercises to practice and solidify everything I had learned.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    "rounded": "bg-light rounded-full"
+  },
+  {
+    "name": "Material UI",
+    "text": "Material UI was really helpful. The pre-designed UI components and consistent design principles of Material Design made it easy to create visually appealing and responsive user interfaces. The Snackbar and TextField components, in particular, stand out when it comes to providing valuable feedback for an enhanced user experience.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg",
+    "rounded": "bg-light dark:bg-dark rounded-full p-1"
+  },
+  {
+    "name": "TypeScript",
+    "text": "At first, understanding why to use TypeScript was tough, but once I got the hang of it, it's hard to think about starting a new project without it. The static typing system helped catch errors early on, improved code quality and enhanced the development experience, especially in larger projects.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    "rounded": ""
+  },
+  {
+    "name": "Next.JS",
+    "text": "Exploring Next.js was an exciting milestone in my React journey. It introduced server-side rendering and static site generation, offering performance optimizations and improved SEO. The framework simplified the setup and deployment of React applications.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+    "rounded": "bg-light rounded-full"
+  },
+  {
+    "name": "Node.js",
+    "text": "Node.js allowed me to extend my JavaScript skills to the server-side. It was interesting to see how JavaScript could be used to develop a full-stack application. Additionally, Node.js introduced me to the diverse world of SQL and NoSQL databases.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "rounded": "bg-light dark:bg-dark rounded-full"
+  },
+  {
+    "name": "MongoDB",
+    "text": "MongoDB was my first experience into the world of databases, and it proved to be an incredibly user-friendly experience. Its intuitive interface and straightforward setup made it really easy to work with.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+    "rounded": "bg-light dark:bg-dark p-1 rounded-full"
+  },
+  {
+    "name": "Firebase",
+    "text": "Exploring Firebase and its ecosystem was really interesting. Its suite of services, including authentication, real-time database, and hosting, simplified the development process for web and mobile applications.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+    "rounded": "bg-light dark:bg-dark rounded-full"
+  },
+  {
+    "name": "MySQL",
+    "text": "During my studies of MySQL, I gained valuable knowledge about SQL queries, learning how to formulate and execute them. Additionally, I learned a little about database modeling, exploring the creation of diagrams to represent database structures.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+    "rounded": "bg-light dark:bg-dark rounded-full"
+  },
+  {
+    "name": "Tailwind",
+    "text": "Working with Tailwind CSS was a refreshing and efficient experience. Its utility-first approach allowed me to build responsive designs really quickly. Tailwind utility-classes are pretty similar to CSS, and it has really good documentation, which facilitated the learning process.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+    "rounded": "bg-light dark:bg-dark rounded-full"
+  },
+  {
+    "name": "React Native",
+    "text": "Developing applications for both iOS and Android platforms with React Native was fascinating, I also dabbled with Flutter, but made the decision to focus on web development. Nonetheless, exploring React Native provided valuable insights into cross-platform mobile development and enhanced my understanding of JavaScript's versatility across different domains.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "rounded": "bg-light dark:bg-dark rounded-full"
+  },
+  {
+    "name": "Redux",
+    "text": "Learning Redux was a bit challenging initially, but it became rewarding once I grasped the concepts. It provided a predictable state management solution, enabling me to build complex applications with ease. Seeing how Redux simplified state management was truly enjoyable.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+    "rounded": "bg-light dark:bg-dark p-1 rounded-full"
+  },
+  {
+    "name": "Chakra UI",
+    "text": "Working with Chakra UI, much like Material UI, offers a similar experience. One standout feature that caught my attention was the Toast component. Its simplicity and user-friendliness made it effortless to implement and incorporate into my projects.",
+    "imgSrc": "https://img.icons8.com/?size=512&id=r9QJ0VFFrn7T&format=png",
+    "rounded": "bg-light dark:bg-dark rounded-full"
+  },  
+  {
+    "name": "Java",
+    "text": "Java stands out from everything I've previously learned. Its object-oriented concepts presented a significant challenge for me initially. Coming from a different programming background, understanding concepts such as SOLID and Design Patterns it’s taking some time and effort to fully grasp, but as a rookie, I'm steadily progressing and embracing the learning process.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+    "rounded": "bg-light dark:bg-dark p-1 rounded-full"
+  },
+  {
+    "name": "Spring",
+    "text": "Spring Boot offers a vast array of classes and methods, creating a rich environment for development. Despite its extensive scope, Spring Boot remains remarkably user-friendly, enabling easy adoption even for rookies like me. However, given its breadth, fully comprehending all aspects of Spring Boot can be challenging.",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg",
+    "rounded": "bg-light dark:bg-dark rounded-full"
+  }
+  
+]

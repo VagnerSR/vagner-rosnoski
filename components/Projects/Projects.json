@@ -1,0 +1,30 @@
+[
+  {
+    "title": "PetNation",
+    "text": "Pet Nation is a website for pet owners to showcase their pets online with photos and essential details. It also generates a unique QR code for each pet, enabling others to access more information about the animal. Perfect for sharing your pet's pictures and connecting with fellow animal enthusiasts.",
+    "imgSrc": "https://i.imgur.com/8ikvtVf.png",
+    "gitHubRepo": "",
+    "linkToProject": "https://petnationbr.com/"
+  },
+  {
+    "title": "Lobby Simulator",
+    "text": "Lobby Simulator is a chat application designed to replicate the lobby environment commonly found in multiplayer games. It allows users to connect, chat, and share their gaming anecdotes while waiting for the actual gameplay to begin, but it never actually begins",
+    "imgSrc": "https://i.imgur.com/5hfgTQJ.png",
+    "gitHubRepo": "https://github.com/VagnerSR/lobby-simulator",
+    "linkToProject": "https://lobby-simulator.vercel.app/"
+  },
+  {
+    "title": "Percentage Calculator",
+    "text": "I developed a user-friendly percentage calculator as a helpful tool for myself and my colleagues at the courthouse. ",
+    "imgSrc": "https://i.imgur.com/RQCwQMv.png",
+    "gitHubRepo": "https://github.com/VagnerSR/percentage-calculator",
+    "linkToProject": "https://vagnersr.github.io/percentage-calculator/"
+  },
+  {
+    "title": "Feed Winston",
+    "text": "Just having fun and practicing React.",
+    "imgSrc": "https://i.imgur.com/loG5nhi.png",
+    "gitHubRepo": "https://github.com/VagnerSR/i-do-not-want-a-banana",
+    "linkToProject": "https://vagnersr.github.io/i-do-not-want-a-banana/"
+  }
+]

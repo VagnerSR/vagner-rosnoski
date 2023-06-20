@@ -1,0 +1,6 @@
+<svg width="89.64583587646484px" height="133.33334045410157px" xmlns="http://www.w3.org/2000/svg" viewBox="205.17708206176758 8.333329772949213 89.64583587646484 133.33334045410157" style="background: none;" preserveAspectRatio="xMidYMid"><defs><linearGradient id="editing-glowing-gradient" x1="0.8146601955249186" x2="0.18533980447508142" y1="0.8885729807284856" y2="0.11142701927151444"><stop offset="0" stop-color="#cd00f5"></stop><stop offset="1" stop-color="#1e0409"></stop></linearGradient><filter id="editing-glowing" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="10"></feGaussianBlur><feMerge><feMergeNode in="blur"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><g filter="url(#editing-glowing)"><g transform="translate(224.39999794960022, 104.79500007629395)"><path d="M50.69-50.37L50.69-34.30L28.67 9.22L28.67-7.04L50.69-50.37ZM22.53 9.22L0.51-34.30L0.51-50.37L22.53-7.04L22.53 9.22Z" fill="url(#editing-glowing-gradient)"></path></g></g><style>text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style></svg>
