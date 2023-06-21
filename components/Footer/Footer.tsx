@@ -29,14 +29,14 @@ export default function Footer({}: Props) {
         <motion.div
           initial={{
             opacity: 0,
-            x: -200,
+            y: -50,
           }}
           transition={{
             duration: 0.5,
           }}
           whileInView={{
             opacity: 1,
-            x: 0,
+            y: 0,
           }}
           viewport={{
             once: true,
@@ -55,14 +55,14 @@ export default function Footer({}: Props) {
         <motion.div
           initial={{
             opacity: 0,
-            x: -200,
+            y: -50,
           }}
           transition={{
             duration: 0.5,
           }}
           whileInView={{
             opacity: 1,
-            x: 0,
+            y: 0,
           }}
           viewport={{
             once: true,
