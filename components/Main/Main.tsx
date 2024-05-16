@@ -14,8 +14,8 @@ export default function Main({}: Props) {
   const [text, count] = useTypewriter({
     words: [
       "Hi there!",
-      "I'm Front-end developer",
-      "Studying Software Engineering",
+      "I'm Full-stack developer",
+      "and I recently graduated in Software Engineering",
     ],
     loop: 0,
     delaySpeed: 4000,
@@ -74,7 +74,7 @@ export default function Main({}: Props) {
             duration: 1,
             delay: 0.5,
           }}
-          className="text-xl lg:text-4xl font-semibold text-secondary dark:text-secondaryDark"
+          className="text-xl h-10 lg:text-4xl font-semibold text-secondary dark:text-secondaryDark"
         >
           <span className="">{text}</span>
           <Cursor />

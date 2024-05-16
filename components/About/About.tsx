@@ -55,11 +55,14 @@ export default function About({}: Props) {
           background
         </h4>
         <p className="text-sm font-semibold lg:text-lg mt-10">
-          {`Hi! My name is Vagner, I'm 27 years old and I am from Brazil. I have been employed at the courthouse for 8 years, but I am now
-          seeking a career transition into the field of IT. I am currently
-          studying to obtain a degree in software engineering and taking online
-          courses to enhance my skills in both front-end and back-end
-          technologies.`}
+          {`Hi! My name is Vagner, I'm 27 years old and I am from Brazil. 
+          I have been working at a notary office for nine years. During this time,
+           I have acquired solid skills in organization, data management, and customer
+            service. Currently, I am seeking a position in the technology field that 
+            offers opportunities for professional growth. Committed to enhancing my 
+            academic background, I recently graduated in Software Engineering, and 
+            I am taking online courses to develop my skills in fullstack development,
+             mainly focusing on backend.`}
         </p>
       </motion.div>
       <motion.div

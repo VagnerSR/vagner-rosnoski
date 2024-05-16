@@ -80,7 +80,7 @@
   {
     "name": "Tailwind",
     "text": "Working with Tailwind CSS was a refreshing and efficient experience. Its utility-first approach allowed me to build responsive designs really quickly. Tailwind utility-classes are pretty similar to CSS, and it has really good documentation, which facilitated the learning process.",
-    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+    "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
     "rounded": "bg-light dark:bg-dark rounded-full"
   },
   {

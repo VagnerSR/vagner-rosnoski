@@ -1,11 +1,5 @@
 [
-  {
-    "title": "PetNation",
-    "text": "Pet Nation is a website for pet owners to showcase their pets online with photos and essential details. It also generates a unique QR code for each pet, enabling others to access more information about the animal. Perfect for sharing your pet's pictures and connecting with fellow animal enthusiasts.",
-    "imgSrc": "https://i.imgur.com/8ikvtVf.png",
-    "gitHubRepo": "",
-    "linkToProject": "https://petnationbr.com/"
-  },
+  
   {
     "title": "Lobby Simulator",
     "text": "Lobby Simulator is a chat application designed to replicate the lobby environment commonly found in multiplayer games. It allows users to connect, chat, and share their gaming anecdotes while waiting for the actual gameplay to begin, but it never actually begins",
